@@ -1,5 +1,5 @@
 [project]
-name = "marvel-characters"
+name = "databricks-and-mlfow"
 description = "Marvel characters project"
 requires-python = ">=3.12, <3.13"
 dependencies = [
